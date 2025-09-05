@@ -45,6 +45,10 @@ It supports multiple attendance methods:
 
 ---
 
+<img width="1170" height="856" alt="image" src="https://github.com/user-attachments/assets/444b3718-3e61-44d8-893b-cd69a8fa3cdb" />
+
+<img width="2940" height="1596" alt="image" src="https://github.com/user-attachments/assets/9121289e-fd1d-4e72-ba81-e15032bcfe94" />
+
 ## 📦 Software Requirements
 
 ### Arduino IDE
@@ -60,7 +64,6 @@ source attendance_env/bin/activate
 
 
 
-<img width="2940" height="1596" alt="image" src="https://github.com/user-attachments/assets/62a20872-248b-45c6-ad8a-a4346e93d091" />
-<img width="1170" height="856" alt="image" src="https://github.com/user-attachments/assets/f67a3930-6b40-4ce6-aaf3-e8a2e93c17fd" />
+
 
 
