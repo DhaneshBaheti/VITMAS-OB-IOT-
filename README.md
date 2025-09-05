@@ -57,3 +57,10 @@ Create a virtual environment:
 ```bash
 python3.12 -m venv attendance_env
 source attendance_env/bin/activate
+
+
+
+<img width="2940" height="1596" alt="image" src="https://github.com/user-attachments/assets/62a20872-248b-45c6-ad8a-a4346e93d091" />
+<img width="1170" height="856" alt="image" src="https://github.com/user-attachments/assets/f67a3930-6b40-4ce6-aaf3-e8a2e93c17fd" />
+
+
